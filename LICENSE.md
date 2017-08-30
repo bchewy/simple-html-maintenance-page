@@ -9,6 +9,8 @@ copies of the Software, and to permit persons to whom the
 Software is furnished to do so, subject to the following
 conditions:
 
+Font Awesome is fully open source and is GPL friendly. You can use it for commercial projects, open source projects, or really just about whatever you want. More information (http://fontawesome.io/license/)
+
 The above copyright notice and this permission notice shall be
 included in all copies or substantial portions of the Software.
 
