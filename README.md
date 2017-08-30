@@ -1,9 +1,6 @@
-# Maintenance
-
-This is a simple maintenance page feel free to use it !
-
-## How to install
-
-Simply download the index.html, modify its content, and copy it to your desired path.
-
-Additionally you can use the provided install.sh script.
+# Simple HTML, CSS and JavaScript based temporary website page.
+Orrginially found here:
+https://github.com/itconsultis/simple-html-maintenance-page
+## Installation
+Download the package here: https://github.com/itconsultis/simple-html-maintenance-page/archive/master.zip
+Copy index.html to your desired location.
